@@ -2,7 +2,7 @@
 
 > Practice Project - Lesson 3 / Exercise 2
 
-## Create Schemas - MongoDB
+## Create Schemas
 
 - test command - `npm run test-models`
 
